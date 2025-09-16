@@ -1,2 +1,2 @@
 # Documentation
-This is a symlink test.
+This is a symlink test!
