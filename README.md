@@ -21,5 +21,3 @@ Tags:
 
 # Pictures
 # References
-# Documentation
-This is a symlink test!!
